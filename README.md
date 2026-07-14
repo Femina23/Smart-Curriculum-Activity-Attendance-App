@@ -68,6 +68,12 @@ git clone https://github.com/Femina23/Smart-Curriculum-Activity-Attendance-App.g
 No additional installation is required.
 
 ---
+## 🎥 Project Demonstration Video
+
+
+[▶ Click here to watch the Project Demo](https://drive.google.com/file/d/1rKt2obSvBJCPtZ0tuogmSD62XwIa9QqC/view?usp=drive_link)
+
+
 
 ## 🎯 Future Enhancements
 
